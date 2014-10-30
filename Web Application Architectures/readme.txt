@@ -1,0 +1,1 @@
+Code for Web Application Architectures on Coursera. Homeworks 1-4 were incremental improvements to a blog app using Ruby on Rails.
